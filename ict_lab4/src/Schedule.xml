@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <title> Расписание группы P3115 </title>
+    <schedule>
+        <day>
+            <short-name-of-day> Чт </short-name-of-day>
+            <lessons>
+                <lesson>
+                    <week> 3, 5, 7, 9, 11, 13, 15, 17 </week>
+                    <time> 10:00-11:30 </time>
+                    <place> Кронверкский пр., д.49, лит.А </place>
+                    <room> 369А ауд. </room>
+                    <name> Дискретная математика (прак) </name>
+                    <teacher> Поляков Владимир Иванович </teacher>
+                    <lesson-format> Очно - дистанционный </lesson-format>
+                </lesson>
+                <lesson>
+                    <week> 3, 5, 7, 9, 11, 13, 15, 17 </week>
+                    <time> 11:40-13:10 </time>
+                    <place> Кронверкский пр., д.49, лит.А </place>
+                    <room> 369А ауд. </room>
+                    <name> Дискретная математика (прак) </name>
+                    <teacher> Поляков Владимир Иванович </teacher>
+                    <lesson-format> Очно - дистанционный </lesson-format>
+                </lesson>
+                <lesson>
+                    <week> 3, 5, 7, 9, 11, 13, 15, 17 </week>
+                    <time> 13:30-15:00 </time>
+                    <place> Кронверкский пр., д.49, лит.А </place>
+                    <room> 285 ауд. </room>
+                    <name> Дискретная математика (лек) </name>
+                    <teacher> Поляков Владимир Иванович </teacher>
+                    <lesson-format> Очно - дистанционный </lesson-format>
+                </lesson>
+            </lessons>
+        </day>
+    </schedule>
+</root>

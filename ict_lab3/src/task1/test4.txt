@@ -1,0 +1,3 @@
+Hello world!
+This test doesn't contain 
+any smiles :_)
